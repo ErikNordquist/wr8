@@ -53,16 +53,16 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [   
     {
-      title: 'Blogg',
+      title: 'Blog',
       pageId: '0ccbd0f927a1483da6901ae014ce4f08'
     },    
     {
-      title: 'Templates',
-      pageId: 'cf2ae3c4839e4e09a1b4a33cc600c409'
+      title: 'About',
+      pageId: '69379c3349694b45bf20022f9d3a0d5b'
     },
     {
-      title: 'Kontakt',
-      pageId: '5f7e562fef814299b10c68c52e920c9a'
+      title: 'Contact',
+      pageId: '33f3036703584aa29774f54977b2f78d'
     }
   ]
 })
