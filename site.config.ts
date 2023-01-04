@@ -9,18 +9,18 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'wr8 Demo',
-  domain: 'demo.wr8.in',
-  author: 'Verfasor',
-  seotitle: 'Demo Site Created with wr8',
+  name: 'Erik Nordquist',
+  domain: 'eriknordquist.se',
+  author: 'Erik Nordquist',
+  seotitle: 'Erik Nordquist sysslar med allt möjligt inom marknadsföring, media, content, social, videoproduktion och annat kul.',
 
   // open graph metadata (optional)
-  description: 'This is a demo website created with wr8.',
+  description: 'Här finns lite allt möjligt om Erik Nordquist',
 
   // social usernames (optional)
-  twitter: 'verfasor',
-  github: 'verfasor',
-  linkedin: 'verfasor',
+  twitter: 'eriknordquist',
+  github: 'eriknordquist',
+  linkedin: 'fbenordquist',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -57,11 +57,11 @@ export default siteConfig({
       pageId: '0b2489ccd66e43f4bcc09cbd098914ad'
     },    
     {
-      title: 'About',
+      title: 'Stigbornfrost',
       pageId: 'e355ef1b8e9a477bb2446d34d1f4e992'
     },
     {
-      title: 'Contact',
+      title: 'Kontakt',
       pageId: '05e1f0840c3b426aa6e0196a595de7db'
     }
   ]
