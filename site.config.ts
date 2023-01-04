@@ -18,8 +18,8 @@ export default siteConfig({
   description: 'Här finns lite allt möjligt om Erik Nordquist',
 
   // social usernames (optional)
-  twitter: 'eriknordquist',
-  github: 'eriknordquist',
+  // twitter: 'eriknordquist',
+  // github: 'eriknordquist',
   linkedin: 'fbenordquist',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
