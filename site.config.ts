@@ -12,7 +12,7 @@ export default siteConfig({
   name: 'Erik Nordquist',
   domain: 'eriknordquist.se',
   author: 'Erik Nordquist',
-  seotitle: 'Erik Nordquist sysslar med allt möjligt inom marknadsföring, media, content, social, videoproduktion och annat kul.',
+  seotitle: 'Erik Nordquist',
 
   // open graph metadata (optional)
   description: 'Här finns lite allt möjligt om Erik Nordquist',
