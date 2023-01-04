@@ -68,7 +68,7 @@ export const PageHead: React.FC<
       <title>{title}</title>
       <script
         async
-        src="https://www.googletagmanager.com/gtag/js?id=G-YVHGE4852W"
+        src="https://www.googletagmanager.com/gtag/js?id=G-18VCN2NPFB"
       />
       <script
         dangerouslySetInnerHTML={{
