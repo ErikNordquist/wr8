@@ -53,11 +53,11 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [   
     {
-      title: 'Blog',
+      title: 'Resurser',
       pageId: '0b2489ccd66e43f4bcc09cbd098914ad'
     },    
     {
-      title: 'Stigbornfrost',
+      title: 'Verktygslåda',
       pageId: 'e355ef1b8e9a477bb2446d34d1f4e992'
     },
     {
