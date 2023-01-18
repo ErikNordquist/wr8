@@ -29,6 +29,11 @@ font-size: 0.9em;
   display: none;
 }
 
+/* inner pages (portfolio) */
+.notion-collection.notion-block-2183985394334c2088a10a231774016a {
+  display: none;
+}
+
 /* toots */
 
 .notion-block-359d4507471542cd87786b48c94dc851 button:hover {
