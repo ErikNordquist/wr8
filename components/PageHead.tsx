@@ -73,7 +73,7 @@ export const PageHead: React.FC<
       <script
         dangerouslySetInnerHTML={{
           __html:
-            "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-18VCN2NPFB')"
+            "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-18VCN2NPFB',{ 'anonymize_ip': true })"
         }}
       />
       
