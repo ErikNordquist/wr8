@@ -15,7 +15,7 @@ export default siteConfig({
   seotitle: 'Erik Nordquist',
 
   // open graph metadata (optional)
-  description: 'Här finns lite allt möjligt om Erik Nordquist',
+  description: 'Allt du behöver veta om Erik Nordquist. Få svar på frågor som vad kan han, vad har han gjort, vem har han gjort det för, hur kan han hjälpa mig och hur får jag tag på honom',
 
   // social usernames (optional)
   // twitter: 'eriknordquist',
