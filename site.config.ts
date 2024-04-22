@@ -53,15 +53,15 @@ export default siteConfig({
   navigationStyle: 'custom',
   navigationLinks: [   
     {
-      title: 'Resurser',
+      title: 'Resources',
       pageId: '0b2489ccd66e43f4bcc09cbd098914ad'
     },    
     {
-      title: 'Verktygslåda',
+      title: 'Services',
       pageId: 'e355ef1b8e9a477bb2446d34d1f4e992'
     },
     {
-      title: 'Kontakt',
+      title: 'Contact',
       pageId: '05e1f0840c3b426aa6e0196a595de7db'
     }
   ]
