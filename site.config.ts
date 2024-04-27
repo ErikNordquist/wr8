@@ -15,7 +15,7 @@ export default siteConfig({
   seotitle: 'Erik Nordquist | Media, Creative, Content',
 
   // open graph metadata (optional)
-  description: 'Erik Nordquist is a media professional at OMD, the world's leading media agency',
+  description: 'Erik Nordquist is a media manager at OMD, the world's leading media agency',
 
   // social usernames (optional)
   // twitter: 'eriknordquist',
